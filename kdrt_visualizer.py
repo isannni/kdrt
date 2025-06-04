@@ -33,12 +33,12 @@ st.set_page_config(
 # Connect to MongoDB
 @st.cache_resource
 def get_database_connection():
-    client = MongoClient('mongodb://localhost:27017')
+    client = MongoClient('mongodb+srv://henrylmtd05:hendri2305@bigdata.kxuftlz.mongodb.net/')
     return client
 
 client = get_database_connection()
-db = client['kdrt_news']
-collection = db['beritaKDRT']
+db = client['CrawlingScrapping']
+collection = db['kdrt']
 
 # Function to load data from MongoDB
 @st.cache_data(ttl=3600)  # Cache for 1 hour
