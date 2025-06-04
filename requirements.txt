@@ -11,3 +11,4 @@ protobuf
 dnspython
 typing-extensions
 seaborn
+plotly
