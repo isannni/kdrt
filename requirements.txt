@@ -12,3 +12,4 @@ dnspython
 typing-extensions
 seaborn
 plotly
+nltk
