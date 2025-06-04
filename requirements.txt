@@ -13,3 +13,4 @@ typing-extensions
 seaborn
 plotly
 nltk
+textblob
