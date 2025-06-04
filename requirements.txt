@@ -1,0 +1,12 @@
+streamlit
+pandas
+pymongo
+wordcloud
+matplotlib
+scikit-learn
+altair
+python-dotenv
+numpy
+protobuf
+dnspython
+typing-extensions

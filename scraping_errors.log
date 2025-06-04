@@ -1,0 +1,11 @@
+2025-05-04 14:16:05,291 - ERROR - Request Error: https://www.komnasperempuan.go.id - 403 Client Error: Forbidden for url: https://www.komnasperempuan.go.id/
+2025-05-04 14:16:28,895 - ERROR - Request Error: https://news.detik.com/tag/kdrt - 404 Client Error: Not Found for url: https://news.detik.com/tag/kdrt
+2025-05-04 14:17:46,329 - ERROR - Request Error: https://www.komnasperempuan.go.id - 403 Client Error: Forbidden for url: https://www.komnasperempuan.go.id/
+2025-05-04 14:18:10,329 - ERROR - Request Error: https://news.detik.com/tag/kdrt - 404 Client Error: Not Found for url: https://news.detik.com/tag/kdrt
+2025-05-04 14:19:03,053 - ERROR - Request Error: https://www.komnasperempuan.go.id - 403 Client Error: Forbidden for url: https://www.komnasperempuan.go.id/
+2025-05-04 14:19:26,770 - ERROR - Request Error: https://news.detik.com/tag/kdrt - 404 Client Error: Not Found for url: https://news.detik.com/tag/kdrt
+2025-05-04 14:24:22,208 - ERROR - Request Error: https://www.koninperempuan.id/category/kdrt - HTTPSConnectionPool(host='www.koninperempuan.id', port=443): Max retries exceeded with url: /category/kdrt (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001A9D47496D0>: Failed to resolve 'www.koninperempuan.id' ([Errno 11001] getaddrinfo failed)"))
+2025-05-04 14:25:26,366 - ERROR - Request Error: https://www.hukumonline.com/berita/baca/lt5f4f4d4d4d4d4/kekerasan-dalam-rumah-tangga - 404 Client Error: Not Found for url: https://www.hukumonline.com/berita/baca/lt5f4f4d4d4d4d4/kekerasan-dalam-rumah-tangga
+2025-05-04 14:25:42,752 - ERROR - Request Error: https://www.dw.com/id/top-stories/s-10210 - 404 Client Error: Not Found for url: https://www.dw.com/id/top-stories/s-10210
+2025-05-04 14:27:46,698 - ERROR - Request Error: https://www.hukumonline.com/berita/baca/lt5f4f4d4d4d4d4/kekerasan-dalam-rumah-tangga - 404 Client Error: Not Found for url: https://www.hukumonline.com/berita/baca/lt5f4f4d4d4d4d4/kekerasan-dalam-rumah-tangga
+2025-05-04 14:28:02,356 - ERROR - Request Error: https://www.dw.com/id/top-stories/s-10210 - 404 Client Error: Not Found for url: https://www.dw.com/id/top-stories/s-10210

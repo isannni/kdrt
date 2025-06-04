@@ -1,0 +1,194 @@
+2025-05-14 09:38:42,843 - INFO - Starting scraping job
+2025-05-14 09:38:42,884 - INFO - Successfully connected to MongoDB
+2025-05-14 09:38:42,885 - ERROR - Unexpected error: Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+2025-05-14 09:39:58,453 - INFO - Starting scraping job
+2025-05-14 09:39:58,459 - INFO - Successfully connected to MongoDB
+2025-05-14 09:39:58,459 - ERROR - Unexpected error: Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+2025-05-14 09:40:56,653 - INFO - Starting scraping job
+2025-05-14 09:40:56,678 - INFO - Successfully connected to MongoDB
+2025-05-14 09:40:56,690 - ERROR - Unexpected error: Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+2025-05-14 09:42:24,856 - INFO - Starting scraping job
+2025-05-14 09:42:24,905 - INFO - Successfully connected to MongoDB
+2025-05-14 09:42:33,938 - INFO - Skipping already saved article: 24-01-2025 Audiensi Komnas Perempuan dengan Kedutaan Spanyol Bahas Strategi Penanganan KDRT bagi Perempuan WNA Komnas Perempuan menggelar audiensi dengan Kedutaan Besar Spanyol pada Senin, 13 Januari 2025, guna membahas sinergi penanganan kekerasan dalam rumah tangga (KDRT), terutama bagi perempuan warga negara asing (WNA). Pertemuan tersebut dihadiri oleh General Consulat Paloma dari Kedutaan Spanyol, Ketua ...
+2025-05-14 09:42:33,941 - INFO - Successfully saved 3 new articles to MongoDB
+2025-05-14 09:42:33,942 - INFO - Scheduler started, will run daily at 08:00
+2025-05-14 09:49:41,503 - INFO - Script interrupted by user
+2025-05-14 09:49:45,067 - INFO - Starting scraping job
+2025-05-14 09:49:45,083 - INFO - Successfully connected to MongoDB
+2025-05-14 09:49:53,458 - INFO - Skipping already saved article: 24-01-2025 Audiensi Komnas Perempuan dengan Kedutaan Spanyol Bahas Strategi Penanganan KDRT bagi Perempuan WNA Komnas Perempuan menggelar audiensi dengan Kedutaan Besar Spanyol pada Senin, 13 Januari 2025, guna membahas sinergi penanganan kekerasan dalam rumah tangga (KDRT), terutama bagi perempuan warga negara asing (WNA). Pertemuan tersebut dihadiri oleh General Consulat Paloma dari Kedutaan Spanyol, Ketua ...
+2025-05-14 09:49:53,460 - INFO - Skipping already saved article: 24-01-2025 Audiensi Komnas Perempuan dengan Kedutaan Spanyol Bahas Strategi Penanganan KDRT bagi Perempuan WNA Komnas Perempuan menggelar audiensi dengan Kedutaan Besar Spanyol pada Senin, 13 Januari 2025, guna membahas sinergi penanganan kekerasan dalam rumah tangga (KDRT), terutama bagi perempuan warga negara asing (WNA). Pertemuan tersebut dihadiri oleh General Consulat Paloma dari Kedutaan Spanyol, Ketua ...
+2025-05-14 09:49:53,463 - INFO - Skipping already saved article: 23-02-2023 Siaran Pers Komnas Perempuan Tentang Dukungan terhadap Korban yang Memperjuangkan Keadilan Dan Pemulihan Dari Dugaan KDRT yang Dialaminya Siaran Pers Komnas Perempuan Tentang Dukungan terhadap Korban yang Memperjuangkan Keadilan Dan Pemulihan Dari Dugaan KDRT yang Dialaminya Jakarta, 22 Februari 2023 P elaporan an kasus KDRT ke Komnas Perempuan setiap tahunnya mengalami peningkatan , dan kekerasan terha ...
+2025-05-14 09:49:53,465 - INFO - Successfully saved 3 new articles to MongoDB
+2025-05-14 09:49:53,466 - INFO - Scheduler started, will run daily at 08:00
+2025-05-14 10:06:33,741 - INFO - Script interrupted by user
+2025-05-14 10:06:37,570 - INFO - Starting scraping job
+2025-05-14 10:06:37,593 - INFO - Successfully connected to MongoDB
+2025-05-14 10:06:49,278 - INFO - Skipping already saved article: 24-01-2025 Audiensi Komnas Perempuan dengan Kedutaan Spanyol Bahas Strategi Penanganan KDRT bagi Perempuan WNA Komnas Perempuan menggelar audiensi dengan Kedutaan Besar Spanyol pada Senin, 13 Januari 2025, guna membahas sinergi penanganan kekerasan dalam rumah tangga (KDRT), terutama bagi perempuan warga negara asing (WNA). Pertemuan tersebut dihadiri oleh General Consulat Paloma dari Kedutaan Spanyol, Ketua ...
+2025-05-14 10:06:49,281 - INFO - Skipping already saved article: 24-01-2025 Audiensi Komnas Perempuan dengan Kedutaan Spanyol Bahas Strategi Penanganan KDRT bagi Perempuan WNA Komnas Perempuan menggelar audiensi dengan Kedutaan Besar Spanyol pada Senin, 13 Januari 2025, guna membahas sinergi penanganan kekerasan dalam rumah tangga (KDRT), terutama bagi perempuan warga negara asing (WNA). Pertemuan tersebut dihadiri oleh General Consulat Paloma dari Kedutaan Spanyol, Ketua ...
+2025-05-14 10:06:49,282 - INFO - Skipping already saved article: 23-02-2023 Siaran Pers Komnas Perempuan Tentang Dukungan terhadap Korban yang Memperjuangkan Keadilan Dan Pemulihan Dari Dugaan KDRT yang Dialaminya Siaran Pers Komnas Perempuan Tentang Dukungan terhadap Korban yang Memperjuangkan Keadilan Dan Pemulihan Dari Dugaan KDRT yang Dialaminya Jakarta, 22 Februari 2023 P elaporan an kasus KDRT ke Komnas Perempuan setiap tahunnya mengalami peningkatan , dan kekerasan terha ...
+2025-05-14 10:06:49,283 - INFO - Successfully saved 3 new articles to MongoDB
+2025-05-14 10:06:49,283 - INFO - Scheduler started, will run daily at 08:00
+2025-05-14 10:10:41,394 - INFO - Script interrupted by user
+2025-05-14 10:15:37,570 - INFO - Starting scraping job
+2025-05-14 10:15:37,605 - INFO - Successfully connected to MongoDB
+2025-05-14 10:15:45,772 - INFO - Skipping already saved article: 24-01-2025 Audiensi Komnas Perempuan dengan Kedutaan Spanyol Bahas Strategi Penanganan KDRT bagi Perempuan WNA Komnas Perempuan menggelar audiensi dengan Kedutaan Besar Spanyol pada Senin, 13 Januari 2025, guna membahas sinergi penanganan kekerasan dalam rumah tangga (KDRT), terutama bagi perempuan warga negara asing (WNA). Pertemuan tersebut dihadiri oleh General Consulat Paloma dari Kedutaan Spanyol, Ketua ...
+2025-05-14 10:15:45,774 - INFO - Skipping already saved article: 24-01-2025 Audiensi Komnas Perempuan dengan Kedutaan Spanyol Bahas Strategi Penanganan KDRT bagi Perempuan WNA Komnas Perempuan menggelar audiensi dengan Kedutaan Besar Spanyol pada Senin, 13 Januari 2025, guna membahas sinergi penanganan kekerasan dalam rumah tangga (KDRT), terutama bagi perempuan warga negara asing (WNA). Pertemuan tersebut dihadiri oleh General Consulat Paloma dari Kedutaan Spanyol, Ketua ...
+2025-05-14 10:15:45,776 - INFO - Skipping already saved article: 23-02-2023 Siaran Pers Komnas Perempuan Tentang Dukungan terhadap Korban yang Memperjuangkan Keadilan Dan Pemulihan Dari Dugaan KDRT yang Dialaminya Siaran Pers Komnas Perempuan Tentang Dukungan terhadap Korban yang Memperjuangkan Keadilan Dan Pemulihan Dari Dugaan KDRT yang Dialaminya Jakarta, 22 Februari 2023 P elaporan an kasus KDRT ke Komnas Perempuan setiap tahunnya mengalami peningkatan , dan kekerasan terha ...
+2025-05-14 10:15:45,776 - INFO - Successfully saved 3 new articles to MongoDB
+2025-05-14 10:15:45,777 - INFO - Scheduler started, will run daily at 08:00
+2025-05-14 10:17:14,643 - INFO - Script interrupted by user
+2025-05-14 10:17:18,210 - INFO - Starting scraping job
+2025-05-14 10:17:18,252 - INFO - Successfully connected to MongoDB
+2025-05-14 10:17:22,142 - INFO - No new articles found
+2025-05-14 10:17:22,143 - INFO - Scheduler started, will run daily at 08:00
+2025-05-14 10:17:46,322 - INFO - Script interrupted by user
+2025-05-14 10:23:44,339 - INFO - Starting scraping job
+2025-05-14 10:23:44,395 - INFO - Successfully connected to MongoDB
+2025-05-14 10:23:44,396 - INFO - Scraping page 1: https://komnasperempuan.go.id/pencarian
+2025-05-14 10:23:46,226 - INFO - Successfully fetched https://komnasperempuan.go.id/pencarian?cari=kdrt
+2025-05-14 10:23:46,247 - INFO - Found 0 relevant articles on https://komnasperempuan.go.id/pencarian?cari=kdrt
+2025-05-14 10:23:48,260 - INFO - Scraping page 2: https://komnasperempuan.go.id/pencarian/0?cari=kdrt
+2025-05-14 10:23:48,776 - INFO - Successfully fetched https://komnasperempuan.go.id/pencarian/0?cari=kdrt
+2025-05-14 10:23:48,792 - INFO - Found 0 relevant articles on https://komnasperempuan.go.id/pencarian/0?cari=kdrt
+2025-05-14 10:23:50,797 - INFO - No articles found
+2025-05-14 10:23:50,799 - INFO - Scheduler started, will run daily at 08:00
+2025-05-14 10:32:31,263 - INFO - Script interrupted by user
+2025-05-14 10:48:43,232 - INFO - Successfully connected to MongoDB
+2025-05-14 10:48:43,234 - ERROR - Fatal error in main: Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+2025-05-14 10:49:40,959 - INFO - Successfully connected to MongoDB
+2025-05-14 10:49:40,959 - ERROR - Fatal error in main: Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+2025-05-14 10:49:40,964 - ERROR - Traceback (most recent call last):
+  File "F:\Semester 6\Big Data\Scheduling\main.py", line 280, in main
+    run_scraper()
+  File "F:\Semester 6\Big Data\Scheduling\main.py", line 268, in run_scraper
+    scraper.scrape_site()
+  File "F:\Semester 6\Big Data\Scheduling\main.py", line 224, in scrape_site
+    if not self.collection:
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\hp5cd\AppData\Local\Programs\Python\Python312\Lib\site-packages\pymongo\synchronous\collection.py", line 311, in __bool__
+    raise NotImplementedError(
+NotImplementedError: Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+
+2025-05-14 10:52:29,866 - INFO - Successfully connected to MongoDB
+2025-05-14 10:52:29,866 - INFO - Scraping page: https://komnasperempuan.go.id/pencarian?cari=kdrt
+2025-05-14 10:52:34,198 - INFO - Found 2 potential articles
+2025-05-14 10:52:34,200 - INFO - Found relevant article: 24-01-2025 Audiensi Komnas Perempuan dengan Kedutaan Spanyol Bahas Strategi Penanganan KDRT bagi Perempuan WNA Komnas Perempuan menggelar audiensi dengan Kedutaan Besar Spanyol pada Senin, 13 Januari 2025, guna membahas sinergi penanganan kekerasan dalam rumah tangga (KDRT), terutama bagi perempuan warga negara asing (WNA). Pertemuan tersebut dihadiri oleh General Consulat Paloma dari Kedutaan Spanyol, Ketua ...
+2025-05-14 10:52:34,203 - INFO - Found 1 pagination links
+2025-05-14 10:52:36,205 - INFO - Scraping page: https://komnasperempuan.go.id/pencarian/0?cari=kdrt
+2025-05-14 10:52:36,599 - INFO - Found 2 potential articles
+2025-05-14 10:52:36,602 - INFO - Found 0 pagination links
+2025-05-14 10:52:38,603 - ERROR - Fatal error in main: Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+2025-05-14 10:52:38,607 - ERROR - Traceback (most recent call last):
+  File "F:\Semester 6\Big Data\Scheduling\main.py", line 280, in main
+    run_scraper()
+  File "F:\Semester 6\Big Data\Scheduling\main.py", line 268, in run_scraper
+    scraper.scrape_site()
+  File "F:\Semester 6\Big Data\Scheduling\main.py", line 258, in scrape_site
+    saved_count = self.save_to_mongodb(all_articles)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Semester 6\Big Data\Scheduling\main.py", line 190, in save_to_mongodb
+    if not self.collection:
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\hp5cd\AppData\Local\Programs\Python\Python312\Lib\site-packages\pymongo\synchronous\collection.py", line 311, in __bool__
+    raise NotImplementedError(
+NotImplementedError: Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+
+2025-05-14 10:55:32,363 - INFO - Successfully connected to MongoDB
+2025-05-14 10:55:32,365 - INFO - Scraping page: https://komnasperempuan.go.id/pencarian?cari=kdrt
+2025-05-14 10:55:35,488 - INFO - Found 2 potential articles
+2025-05-14 10:55:35,490 - INFO - Found relevant article: 24-01-2025 Audiensi Komnas Perempuan dengan Kedutaan Spanyol Bahas Strategi Penanganan KDRT bagi Perempuan WNA Komnas Perempuan menggelar audiensi dengan Kedutaan Besar Spanyol pada Senin, 13 Januari 2025, guna membahas sinergi penanganan kekerasan dalam rumah tangga (KDRT), terutama bagi perempuan warga negara asing (WNA). Pertemuan tersebut dihadiri oleh General Consulat Paloma dari Kedutaan Spanyol, Ketua ...
+2025-05-14 10:55:35,493 - INFO - Found 1 pagination links
+2025-05-14 10:55:37,495 - INFO - Scraping page: https://komnasperempuan.go.id/pencarian/0?cari=kdrt
+2025-05-14 10:55:37,833 - INFO - Found 2 potential articles
+2025-05-14 10:55:37,836 - INFO - Found 0 pagination links
+2025-05-14 10:55:39,863 - INFO - Scraping complete. Pages scraped: 2
+2025-05-14 10:55:39,864 - INFO - Total articles found: 1
+2025-05-14 10:55:39,865 - INFO - New articles saved to MongoDB: 0
+2025-05-14 10:55:39,868 - INFO - MongoDB connection closed
+2025-05-14 10:55:39,871 - INFO - Scraper started. Scheduled to run daily at 08:00
+2025-05-14 10:59:59,817 - INFO - Scraper stopped by user
+2025-05-14 11:00:05,433 - INFO - MongoDB connection established
+2025-05-14 11:00:05,434 - ERROR - Fatal error: Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+2025-05-14 11:00:05,439 - ERROR - Traceback (most recent call last):
+  File "F:\Semester 6\Big Data\Scheduling\main.py", line 243, in main
+    scraper.scrape_and_save()
+  File "F:\Semester 6\Big Data\Scheduling\main.py", line 175, in scrape_and_save
+    if not self.collection:
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\hp5cd\AppData\Local\Programs\Python\Python312\Lib\site-packages\pymongo\synchronous\collection.py", line 311, in __bool__
+    raise NotImplementedError(
+NotImplementedError: Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+
+2025-05-14 11:00:05,443 - INFO - MongoDB connection closed
+2025-05-14 11:01:46,295 - INFO - MongoDB connection established
+2025-05-14 11:01:46,296 - ERROR - Fatal error: Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+2025-05-14 11:01:46,299 - ERROR - Traceback (most recent call last):
+  File "F:\Semester 6\Big Data\Scheduling\main.py", line 245, in main
+    scraper.scrape_and_save()
+  File "F:\Semester 6\Big Data\Scheduling\main.py", line 177, in scrape_and_save
+    if not self.collection:
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\hp5cd\AppData\Local\Programs\Python\Python312\Lib\site-packages\pymongo\synchronous\collection.py", line 311, in __bool__
+    raise NotImplementedError(
+NotImplementedError: Collection objects do not implement truth value testing or bool(). Please compare with None instead: collection is not None
+
+2025-05-14 11:01:46,301 - INFO - MongoDB connection closed
+2025-05-14 11:04:33,929 - INFO - MongoDB connection established
+2025-05-14 11:04:33,931 - INFO - Scraping: https://komnasperempuan.go.id/pencarian?cari=kdrt
+2025-05-14 11:04:38,595 - INFO - Found article: Modal title...
+2025-05-14 11:04:38,597 - INFO - Found article: 24-01-2025 Audiensi Komnas Perempuan dengan Keduta...
+2025-05-14 11:04:38,643 - INFO - Inserted 0 new articles
+2025-05-14 11:04:40,644 - INFO - Scraping: https://komnasperempuan.go.id/pencarian/1?cari=kdrt
+2025-05-14 11:04:42,793 - INFO - Found article: Modal title...
+2025-05-14 11:04:42,794 - INFO - Found article: 24-01-2025 Audiensi Komnas Perempuan dengan Keduta...
+2025-05-14 11:04:42,801 - INFO - Inserted 0 new articles
+2025-05-14 11:04:44,803 - INFO - Scraping: https://komnasperempuan.go.id/pencarian/0?cari=kdrt
+2025-05-14 11:04:45,211 - INFO - Found article: Modal title...
+2025-05-14 11:04:45,220 - INFO - Inserted 0 new articles
+2025-05-14 11:04:47,223 - INFO - Scraping: https://komnasperempuan.go.id/pencarian/2?cari=kdrt
+2025-05-14 11:04:48,806 - INFO - Found article: Modal title...
+2025-05-14 11:04:48,808 - INFO - Found article: 23-02-2023 Siaran Pers Komnas Perempuan Tentang Du...
+2025-05-14 11:04:48,815 - INFO - Inserted 0 new articles
+2025-05-14 11:04:50,818 - INFO - Scraping: https://komnasperempuan.go.id/pencarian/-1?cari=kdrt
+2025-05-14 11:04:51,188 - INFO - Found article: Modal title...
+2025-05-14 11:04:51,191 - INFO - Inserted 0 new articles
+2025-05-14 11:04:53,191 - INFO - Finished. Total pages: 5, Articles saved: 0
+2025-05-14 11:04:53,194 - INFO - Scraper started with daily schedule at 08:00
+2025-05-14 11:08:32,892 - INFO - Stopped by user
+2025-05-14 11:08:32,928 - INFO - MongoDB connection closed
+2025-05-14 11:08:36,156 - INFO - MongoDB connection established
+2025-05-14 11:08:36,157 - INFO - Scraping: https://komnasperempuan.go.id/pencarian?cari=kdrt
+2025-05-14 11:08:39,187 - INFO - Found article: Modal title...
+2025-05-14 11:08:39,188 - INFO - Found article: 24-01-2025 Audiensi Komnas Perempuan dengan Keduta...
+2025-05-14 11:08:39,189 - INFO - Preparing to save article: Modal title...
+2025-05-14 11:08:39,189 - INFO - Preparing to save article: 24-01-2025 Audiensi Komnas Perempuan dengan Keduta...
+2025-05-14 11:08:39,190 - INFO - Executing bulk write with 2 operations
+2025-05-14 11:08:39,267 - INFO - MongoDB result: matched=1, upserted=1
+2025-05-14 11:08:41,268 - INFO - Scraping: https://komnasperempuan.go.id/pencarian/1?cari=kdrt
+2025-05-14 11:08:42,950 - INFO - Found article: Modal title...
+2025-05-14 11:08:42,951 - INFO - Found article: 24-01-2025 Audiensi Komnas Perempuan dengan Keduta...
+2025-05-14 11:08:42,953 - INFO - Preparing to save article: Modal title...
+2025-05-14 11:08:42,953 - INFO - Preparing to save article: 24-01-2025 Audiensi Komnas Perempuan dengan Keduta...
+2025-05-14 11:08:42,953 - INFO - Executing bulk write with 2 operations
+2025-05-14 11:08:42,956 - INFO - MongoDB result: matched=2, upserted=0
+2025-05-14 11:08:44,958 - INFO - Scraping: https://komnasperempuan.go.id/pencarian/0?cari=kdrt
+2025-05-14 11:08:45,605 - INFO - Found article: Modal title...
+2025-05-14 11:08:45,607 - INFO - Preparing to save article: Modal title...
+2025-05-14 11:08:45,607 - INFO - Executing bulk write with 1 operations
+2025-05-14 11:08:45,609 - INFO - MongoDB result: matched=1, upserted=0
+2025-05-14 11:08:47,611 - INFO - Scraping: https://komnasperempuan.go.id/pencarian/2?cari=kdrt
+2025-05-14 11:08:49,224 - INFO - Found article: Modal title...
+2025-05-14 11:08:49,225 - INFO - Found article: 23-02-2023 Siaran Pers Komnas Perempuan Tentang Du...
+2025-05-14 11:08:49,225 - INFO - Preparing to save article: Modal title...
+2025-05-14 11:08:49,226 - INFO - Preparing to save article: 23-02-2023 Siaran Pers Komnas Perempuan Tentang Du...
+2025-05-14 11:08:49,226 - INFO - Executing bulk write with 2 operations
+2025-05-14 11:08:49,228 - INFO - MongoDB result: matched=2, upserted=0
+2025-05-14 11:08:51,230 - INFO - Scraping: https://komnasperempuan.go.id/pencarian/-1?cari=kdrt
+2025-05-14 11:08:51,618 - INFO - Found article: Modal title...
+2025-05-14 11:08:51,619 - INFO - Preparing to save article: Modal title...
+2025-05-14 11:08:51,619 - INFO - Executing bulk write with 1 operations
+2025-05-14 11:08:51,621 - INFO - MongoDB result: matched=1, upserted=0
+2025-05-14 11:08:53,622 - INFO - Finished. Total pages: 5, Articles saved: 1
+2025-05-14 11:08:53,623 - INFO - Scraper started with daily schedule at 08:00
+2025-05-14 11:30:16,295 - INFO - Stopped by user
+2025-05-14 11:30:16,390 - INFO - MongoDB connection closed
